@@ -17,8 +17,13 @@ Atualmente estudando para me tornar um desenvolvedor Front-end Junior em ReactJS
 [![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IuryMT&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=IuryMT&count_private=true&theme=github_dark&show_icons=true" />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryMT&layout=compact&theme=github_dark" />
+<div align-items="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=IuryMT&count_private=true&theme=github_dark&show_icons=true" />
 
-![Snake animation](https://github.com/IuryMT/IuryMT/blob/output/github-contribution-grid-snake.svg)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryMT&layout=compact&theme=github_dark" />
+</div>
+
+<div align="center">
+  ![Snake animation](https://github.com/IuryMT/IuryMT/blob/output/github-contribution-grid-snake.svg)
+</div>
