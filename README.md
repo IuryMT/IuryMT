@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá, chamo-me Iury Morais Tenório
 
+Atualmente estudando para me tornar um desenvolvedor Front-end Junior em ReactJS.
+
+<a href="https://www.github/IuryMT" target="_blank">
+  <img src="https://img.icons8.com/metro/26/FFFFFF/instagram-new.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iury-ten%C3%B3rio-018117254/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/26/FFFFFF/linkedin.png"/>
+</a>
+
+ ##
 <!--
-**IuryMT/IuryMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Status do github de Iury](https://github-readme-stats.vercel.app/api?username=IuryMT&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IuryMT&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=IuryMT&count_private=true&theme=github_dark&show_icons=true" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryMT&layout=compact&theme=github_dark" />
+
+![Snake animation](https://github.com/IuryMT/IuryMT/blob/output/github-contribution-grid-snake.svg)
