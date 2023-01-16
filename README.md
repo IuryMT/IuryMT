@@ -7,7 +7,11 @@ Atualmente estudando para me tornar um desenvolvedor Front-end Junior em ReactJS
 </a>
 
 <a href="https://www.linkedin.com/in/iury-ten%C3%B3rio-018117254/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/26/FFFFFF/linkedin.png"/>
+  <img src="https://img.icons8.com/ios-filled/28/FFFFFF/linkedin.png"/>
+</a>
+
+<a href="https://iurytenorio2005@gmail.com">
+  <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/gmail.png"/>
 </a>
 
  ##
