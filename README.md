@@ -31,9 +31,9 @@
 
 <div align-items="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IuryMT&count_private=true&theme=github_dark&show_icons=true" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=IuryMT&count_private=true&theme=github_dark&show_icons=true&hide_border=true&icon_color=0000FF" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryMT&layout=compact&theme=github_dark" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryMT&layout=compact&theme=github_dark&hide_border=true&icon_color=0000FF" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IuryMT&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
